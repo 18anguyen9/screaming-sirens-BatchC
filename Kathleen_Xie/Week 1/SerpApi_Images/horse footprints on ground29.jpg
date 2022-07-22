@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "50278",
+        cRay: "72e627993f6796cf",
+        cHash: "bcf941de6a5c80a",
+        cUPMDTk: "\/profile\/Sashima-Laebe\/publication\/262918208\/figure\/fig5\/AS:296060862910468@1447597818437\/Typical-track-produced-in-the-toelt-amble-of-an-Icelandic-horse-In-the-amble-the_Q320.jpg?__cf_chl_tk=UHz.p6ULjBzuhFyxML.U8FJnCIm8VLCb05wPLbcwBKs-1658429766-0-gaNycGzNB9E",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wcm9maWxlL1Nhc2hpbWEtTGFlYmUvcHVibGljYXRpb24vMjYyOTE4MjA4L2ZpZ3VyZS9maWc1L0FTOjI5NjA2MDg2MjkxMDQ2OEAxNDQ3NTk3ODE4NDM3L1R5cGljYWwtdHJhY2stcHJvZHVjZWQtaW4tdGhlLXRvZWx0LWFtYmxlLW9mLWFuLUljZWxhbmRpYy1ob3JzZS1Jbi10aGUtYW1ibGUtdGhlX1EzMjAuanBn",
+          ra: "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc4LjAuMzkwNC4xMDggU2FmYXJpLzUzNy4zNg==",
+          rm: "R0VU",
+          d: "a883pXiMiou4sxfXpSu8LxjjsKPFmAlV9obkjLadcJ6VBRPi/govPZT3iUtVCZhTxoasl3p+PsdSukf66y8kI/wPZ8fVNQUgNRuTG0u7Que/CFynKC3R9g1lCBczITH7T7A/yaiEe8lRxXzL0/7UUN9bWJYl/kd8chFrCV/s4puNjq3k2A3VEmSGTn5l/FKOu4WzZ3d4Xgcg00KkWt5S7iSSg0UTyLbzxXlP6SQC2DtIFw4sS9e1eRkURJs1W2OCPMnZHYwOe/JUb06GWhmdhCUFp654WzOfDL1Js//Y1b5TbBJOGMcC8gZxVxZvaMw//GGJIN0s9Wc+feL4wjglWdGb1Sm0DHH/PqCMSK6zrM1TJEZW54RdVSHepXltKsos2czI2/spgzPp7ue4RhDEQk1xS/ZckbuJb85QlE5O1sBpWTkebTOJ3a4oKACO1CtX61cUO2DVj5y51D3iQij4m4Slg/XklpoZ801cjpfxRJcf29wSqGaT0i9KBBFteX8vatMpR2nu0kcclmMMiqg8mQxVQ429HKEyGfkzfi+gaB8aM/Svc4L64vE0Cty+jiwxyvw6/ZXaRpWjczqfHBzd8TMHe/DAxagenHOKVpFhaHWbPLOZdwYX8swuvT/78lo3opunUMDKgIzNxlgI1jiqRg==",
+          t: "MTY1ODQyOTc2Ni42MDEwMDA=",
+          m: "xMoE7uuxT+5H24qEhOe9ruUpgnLxgEeaofuHWj/tZOY=",
+          i1: "Vo8NbaJckE+wj08zTUZ8Zw==",
+          i2: "i8w8udkXaRyi1SMaxu3sww==",
+          zh: "sjixqRSLa9EVXOTc7rZ+rm2ThxBuB3vWBNE2W8QzSOo=",
+          uh: "cE3keR/l/8t+rtvzG07fQITfZd5kCDxLVz8t66Zf28Q=",
+          hh: "iL/xMm/kzXFdBWMAQTIQdH+4A0b81v+3SGvFhZixdAA=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www.researchgate.net</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form id="challenge-form" class="challenge-form managed-form" action="/profile/Sashima-Laebe/publication/262918208/figure/fig5/AS:296060862910468@1447597818437/Typical-track-produced-in-the-toelt-amble-of-an-Icelandic-horse-In-the-amble-the_Q320.jpg?__cf_chl_f_tk=UHz.p6ULjBzuhFyxML.U8FJnCIm8VLCb05wPLbcwBKs-1658429766-0-gaNycGzNB9E" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="UzCrYe.0BUs.4g2yLWeoQH.4vw7kmZ9.dMEDSq0aMQg-1658429766-0-AWnhnfJJ0AZh05dUMQQal5Iogwnnjha3ggHReLFoN7l0Egvb3dbo-IpR3SvlmRTDMmPYsyss3KJ0T6jLF875wOjXRp93A5wLgvrElV7f9PHotwdRXdXM9Uvx9E0EEyEQR6Qc3ZqRsxZK3ShCKFt6u3MEgKQFva7ix5uHJsLcOLOtbRQ4P4vhZudcefVc8RLFjaqDWb3ylsgEksLWpLPAxld0eUKznXcSfba3G_7nPyhN-I0TIN599ZQlfFpZh6-jgaBeK9iE7Dfxyo0ZCuEOnxdZ4vk1RuAcbYEdalQtMhdcQXDMPhUshG1HCK3BRU8PjR8ULDQKHPyRdKKIT4sYj8-VOgtntJyLeJaqZHzZAMNAQRD8dPDwWdlNmKpW7NNs2a-AIwZlMmdO-75ZPCaugAqMNpDMRiSWHP9XBxE4OVkKZvc_rfpgS4fBpB_WPgv2Qmw06Tbp1sFhqgJTAJXFpD9JucUXAJ6RLUQAHbQaUU2z-z44Xf9iTE8dhjeh4MEbJqOF3O1mlKsFp0KTgPuTT478JRH0XAhz-xZdRvWr2pFfZ1stcEeeI_MUn_FHV-8ziVAJffvW4QvPQHNuFgkTk9XzicSHr6KKeHJcG3bySsHZ8yRXuzrzP8CiMCiwbKCDZmtEm6HvYW8cOcuSGS7w5Ebk3cSvkKxuiiwVDHbO4IdHiDEzr82AjqxpeabzBVW4UtvwVwb3flDs1pJdyDCU8yU5lyzAzFFtSzAIUsbSwiNR6TPzEErzQT94a2JVTkutsOnjOVIMVSzewKCYKVZ6DVtJXJxgJrANm56QxKCoCjgQaa6u28H34xopLSCyF33ap4c85i23-xmbCrE78ek73SQV-BPGjHz5OMOIJsfFn73_tAC40WPdANUkZagW-AEhZ8yIMOPNDP1G_JDsc4Ol-ADRB6Ui5Cq01DkedpNya6jOPqaWn9xpfIi_M3UQWQ7xtqMhwJZYVWZM3cboL9oDr4qX8uj7ZG0xtKWAj2fr7LQ0RLBbaxtG7XF7KGLRO1Yqk76MANqKEye6yhuvLWvbvsLZcFF7Zxys-7D03wG7xDVlvgUQfO6n90FSZ4OGxVjNBNdjCe3Ca0pplrfT_4zrxvRnUGAYC0eaiWSm2ZwU67SIfJ3bmOgMWo3bPAImoykZfFDiKawf-QaRywKx0ABI_hY" />
+  <input type="hidden" name="r" value="h8MNfW0mTMu9V.wxtR6ri1TjnGG6s.vsN31VGB1Olhg-1658429766-0-AWDND4EZ2c2a0Zkvso8c9eJwrnPbP1iQm/nJdC3R/M+tqYZm+Vdu6bccgzzeRViFvfxRyZRdB4imp5C2nf0k29tzHqGMIY18fIc+rF4KCsh6BEq1jfX6+WRueJoH+yTEZbk+FfDG1PP57iqAcxa8iCOTWqTLT9c8znGUASlnNhqgYQ/pJGh/cUCRB3bJufAwtnkIuqIEERIXUmGJZvTvEfjyw+nhVaglXntEwaKDtF5Z6iUXSyglGg706B21NmCTwbTcX4AJ5UeKeKt1mAQluSkNWeNBnnD2HtwoIfJxiWGItgDEExNT+hKT64jd4E1s/Sn+X/uDeO7R46irnA2m5tKYzx7O8VCdK7vyRpqDtoPbXIYPo4RPHdMrTGzjYuIb0/UShQtPNCn2TL9Cj3fOMyN80Pm/QRB+ND8oFEgsBj5kzurNTXO7AjEPQGYihb1WsVUQfI0SJ0+SV5cluUprDp4tm6NNbgSfTVHAFoI/3NQGsBOIJqmg4szhv4nEReh3oWgSpTN7/4O0XRCFg2cUbx1xuSNJ/URzR8T6KYKp5On7YPtbjP5BEaCcLvrraUoNVysV99AEIH2LF6UkSRxa/hFtnIpB7luRLPSM4HztfR21pTjKPKTTmwbN0Gile7PvdRisEkcNV0aKwnGXgTeDetGwqDWDQdsWVYXJ7rGVE4ctpVeGRzLnzaeXameC88qw6nv0s5ZFVvB6+nd8W/XQH5Zp6R7PhD8m6Ug6R0VLTvAHCGFctEUUnGocwIyr9q6B7L2FvxHPeya8IohNMSbrP94j2/DAUObChHoTAdulXZi9Cuu38419S025WoiGd20sKQt0az4ZBLKE/D4S8MKl1cM2wto2Tvr6rzIl5BNf51i/T9CE+b47+1RC5uKk+Xh0jyik+PG4BtzzD/kYk8NXn+SD2fWT/FZUdJrYblo9eUhuqPc8JYqUQb7bgaSWVmiVh7PvyQ8mSjFAqlMrykcIV/P3G8dT5DOy8gRx4lV3Uy1yzl8T3r8o3uVa+dOXePF6f45Zbg/1387YtBLNHJt6xcjPQgIh5xRXLgplVqlihMpei2K8gCRzPSyOgWDXPZtGZnB6yFSxggRs2aWHavxOY4IDzgYTL8Vr2toWxp+FX9e2PMdvlZEgWnIfDaNsfPAD1e/wMkGcBoBxcPKJqk4gI0LdIZzhNvU/Gv8rFEaLIdlXHtqFftXz/BSTISmRaPasKx/j8V/5yNPFdjJ5vVIEKDJeF4pokZOhlBQqoTraJ2s5b8P2hV+UvB9x+u0hGA0czYt2Y463hhG+Tqj/+MtjN8H7bISbB4kc3aMPglq0me7mTwBr7p+QPPirxLQJWhLTPhwyJwDe6Q4pFWqnVzrWJRLelLNFt4tUhuFygyPqosxK7f2pGZAvfvZQHcAWYU1uTUC+feK/68W2WuYurJR7G7xZ76w13pxJsOn4129ZmTYZmEWeifUk2eeZU0VE35ohMeUHQTrkK6OZ14T677kR4ykUW4AvAx5Q5H/DCXkYc0Oz9YeafyRJ3/ckZxvM8DRRiVUHGtLky42ltq+mQpOPzblH6ZhXfUjm8mGmYYX//B1tX2BAGgVD36XHaDKGzpRX46tC5OuF4fqzJyEWbejZyloa0eqHhIVN/FYwQU8v29/0gidJ1N/tMwWYwUSA/L5JT858Ubv6WIf3f9a94rt9vo1/DUpmoSzlnYxJG+MCKrww2OF0whd0dFyrTX61zWeQboSUHYkGyPdehydPtWLEtuLdoLES2RszLrmkFUopA7GSE1bmRTLJdesPtdzVT1GwR0156a6nfJQ3myCwhNjDvzaYWCDLN1GksZlWjBGnkzuUuhdTSTnV+ykUQJIMIpp66xYgGCiP3hKJF7Bmwpw8G0Sjif8g5D7ZSkdP9N2SNL1/NuqZrMtzEgFgcScdwIrKCnqcQkO14RdjlNK5JO5iwEs=">
+  <input type="hidden" name="vc" value="dde95673ebe6781eefb325fc6f50440d">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/transparent.gif?ray=72e627993f6796cf')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=72e627993f6796cf");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=72e627993f6796cf';
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/profile\/Sashima-Laebe\/publication\/262918208\/figure\/fig5\/AS:296060862910468@1447597818437\/Typical-track-produced-in-the-toelt-amble-of-an-Icelandic-horse-In-the-amble-the_Q320.jpg?__cf_chl_rt_tk=UHz.p6ULjBzuhFyxML.U8FJnCIm8VLCb05wPLbcwBKs-1658429766-0-gaNycGzNB9E" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+              <p data-translate="resolve_captcha_privacy_pass">Another way to prevent getting this page in the future is to use Privacy Pass. Check out the browser extension in the <a rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi">Chrome Web Store</a>.</p>
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">72e627993f6796cf</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">52.53.188.138</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>

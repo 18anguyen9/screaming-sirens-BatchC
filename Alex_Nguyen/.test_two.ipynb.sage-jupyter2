@@ -1,0 +1,4 @@
+{"backend_state":"running","connection_file":"/projects/4559949a-12be-48f9-8c58-b62a9ca1e674/.local/share/jupyter/runtime/kernel-28874ed9-590d-4482-ad2f-c1e8ff5746e1.json","kernel":"cv_env","kernel_error":"","kernel_state":"idle","trust":true,"type":"settings"}
+{"end":1658427302450,"exec_count":1,"id":"141f08","input":"2+2","kernel":"cv_env","output":{"0":{"data":{"text/plain":"4"},"exec_count":1}},"pos":0,"start":1658427302439,"state":"done","type":"cell"}
+{"id":"5e5726","input":"","pos":1,"type":"cell"}
+{"last_load":1658427285841,"type":"file"}

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "82832",
+        cRay: "72ef1aa669376426",
+        cHash: "b5e34359665a42b",
+        cUPMDTk: "\/profile\/Gary-Ordog\/publication\/350429355\/figure\/fig7\/AS:1006124673286144@1616890223034\/Cougar-Footpad-to-show-you-where-the-cougar-footprint-comes-from-The-four-toe-pads-are.png?__cf_chl_tk=j4yQZG3xqTgEmg.7ey2kVk6T90nUMl.i9gUy4V_43I4-1658523608-0-gaNycGzNB70",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wcm9maWxlL0dhcnktT3Jkb2cvcHVibGljYXRpb24vMzUwNDI5MzU1L2ZpZ3VyZS9maWc3L0FTOjEwMDYxMjQ2NzMyODYxNDRAMTYxNjg5MDIyMzAzNC9Db3VnYXItRm9vdHBhZC10by1zaG93LXlvdS13aGVyZS10aGUtY291Z2FyLWZvb3RwcmludC1jb21lcy1mcm9tLVRoZS1mb3VyLXRvZS1wYWRzLWFyZS5wbmc=",
+          ra: "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc4LjAuMzkwNC4xMDggU2FmYXJpLzUzNy4zNg==",
+          rm: "R0VU",
+          d: "n4Nql1wuu5hTUTHjUD2tSC7aPmXI75RtCQr+UliD5LF6/uVzsME4G4b6PuFlPQOqow2e05cYPd9tYubMiGT24nc5/YsJZzyQYcuyy54ZKYctRK/ihzZAKd5h1ti7r+5eTf/cBgHe6CDneZ1OXE1kUoeC+JZdduclnPfFBykXDMPySVjV+2DIOFIUFj0EYTCycOD1fI8/m37Fb4xzOgeurNPa1FwbtD8yBjCstgE9cPYsYjqN15YPtl97AJubwWDqQmGaFy40nlCC2pCPS+Ee00n/81AjzGswNl2PHRQXEgOUko3nN6qp/UfzEQNmFCT7Xogw/IgPE+Vubo65NaLWP4i8jfEF4C7/tTW6ZofykU7EFp8E4FsHmj6DZkC8t7rfwckm9R8gb3JL02bwgd+dilZrZnCuO2ZyspiDC+t0/oWp5MWNFN3RICsbIVtNk+0gAouPH3qqLHPHRboQqiNM/jv0zsEKiYCMB5fhWQ/5BT9thkZyAWrvtvFgEI3haNhU/2Blyw79/nOB6pbtdBljg/G1ClfP40km2tz2Nv7V7W+DycXcBnLlRt342J9LPQJXWHXnoLdkFwoLkDdjkUsVH+Mbcm7BIZb8Pad2wzXNAskk3gWwUnU6v3GDjosq9vNuz/i5c8/ANqAdVu5TzqhcSw==",
+          t: "MTY1ODUyMzYwOC4wODAwMDA=",
+          m: "88ECf9UhRpR/bdaXrPx7wC+TL888vuPeeWX8YVPnlPA=",
+          i1: "1v1q2k61F8OrnBRm2I5Gjg==",
+          i2: "GqxpoyApW6mkXUn+hLCvEQ==",
+          zh: "sjixqRSLa9EVXOTc7rZ+rm2ThxBuB3vWBNE2W8QzSOo=",
+          uh: "cE3keR/l/8t+rtvzG07fQITfZd5kCDxLVz8t66Zf28Q=",
+          hh: "iL/xMm/kzXFdBWMAQTIQdH+4A0b81v+3SGvFhZixdAA=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www.researchgate.net</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form id="challenge-form" class="challenge-form managed-form" action="/profile/Gary-Ordog/publication/350429355/figure/fig7/AS:1006124673286144@1616890223034/Cougar-Footpad-to-show-you-where-the-cougar-footprint-comes-from-The-four-toe-pads-are.png?__cf_chl_f_tk=j4yQZG3xqTgEmg.7ey2kVk6T90nUMl.i9gUy4V_43I4-1658523608-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="P_2OXVXe9vuK0SGOit9_nUb6dExsKvI8Ndzol7zb1ns-1658523608-0-AeASZbBdwUvp0Z6cL75APTVenA1u2-U5Q_XjHinDfpllPdRhLvWkghjXkbRiatIQf9qY3WdXlI69PXqIgnS8j0cE9zRWECY4xbCceDhzY7__y5el6KHLs8AYdK6eJF6Z6Fh-RZzi_20yM7EqDQDoa9VFCvvI4Djz6HxGSvQ8eKs9dv9RUHKCw3LlCO-llCWQHcCBh721XNE-dQfKOLtgUSNtlWiPxj7A-nsXkFL4OD3Gdqc8XRu45vHlvGOwAQAWFlQ4dTGJ0Cblsv2_z7XhYwmOhDhmpy9wl3GEIgZPcuDSY66mdf_42mOMZccOkW3nWhO6tlJYUE7Mu2rxfN-tZRHfS3VXN2eVYFS6Cd3Oxo3HPki4bf3eykMgmA23qLZbGq1rJz7lNKPFMQmuogegX3d13l_1bK8KcnXthlyZy7XM5kfWkuHLrynruSfWPjIsH-zS2YGZT2UFePEFwj6C0NKPlcA_oeCIUtTDd0WJXgpcIurZ7kHkXOpQ4L1Si1Fzr07EKLmlopywFgCqNyfr2YEvXufmGbdqpnrBUeH75peM5_v-wWR9G9zUVvmlxxyjQKfqF9KhrfVEhN2yTNCH4EaNgXkaoGnkAHaBtjcLyRadOQUjVioeXoFdELkEuQFO3qcCdSkZGONxeOyHSLKG2heh_TTLf23RsqCWyX6XZcfiuPmgKKD3RYNv78aIvFodzWi7aCNjnq2-1at7GYgK4eL7tPPpdQmR8-bkStTdsUIy0AEyYXTiplLNiSzF9tPLTLVUqnFc7FVPJY845OfDZ559OxKJKxlklFoEBb6kiP9jaOyusRiXhRgK4m0nvSzBVluGmtIDe1XHm6OcFxODrvQodUMzyAd726wT_vDk7bPm5lGKZ0etlGcikNOyfY-6Lp2-ZSPOJL0uh9vaMG4wm9DNqVIT-0DnR8f_0nKHUJ0gjj7sejzSW0EqZwHvXgQwoYF92d9JegGtNFJIJj9qhYglrfgYd2hpusYVGOjxVkU64q-pRLu0KCI-3sZSN0v_epsDya6-b7RWfh3ywVxaSGpPCmBNb641o1_0PgQtjhE5Fcoby3Ux6Me6507HAj7Yyo2G-JjRPEUjx2bCFwZhdj0UXkelQPthEVc2wb0zR15t5LSlewQ_qrs5_SOvQHfjnw" />
+  <input type="hidden" name="r" value="_3cVa.rKY.RIpwnk1xuIo5AO7pcAluk0lVXRHX492yw-1658523608-0-AfHIemy1awb8XcgtjewZC6qgjTQ5Qw5L4xYf6v1lcEIXsdMxy+ZVbF12uNylHOOFTIl2ApW/9RN/1TvELoj3NO2mr6LhW4O/5spIje10ZquLR/KeeCcMoAxCRkFZp8MF3YFiMjNySu4P+cDGZOEqXpqsIsjMPStXe/pltla+AO9uhTlJTKJlLrtYLbD/lubiuGNMr3aQaCNQkij5Ehyo0xBvtpqlNNPJrN1RQNv0eN4k5hiheb8NNlzU8YOpwDwwnQi9eXytMqJxVob3tANQ3H4cD7lUYneYiPOF3yoNHrZMryMpc3tIdC3zvzHz5LaRAR1dXWROJC2KQm5QdepZY9UZOx1c2HsQ/O2wR+/8ofu/Ozz4xRf4ZcT0rYIUFywUGUlxGv7ejsW205xJ3/3D/FfjjtjZMSg/CTuZzHztlhkNKo8L8rblWt6r+8qOzoZBTjVUmB3sZQwsGwMofrXF8yLec5cvvFtO/SmgeDgSEEsaSt6WfX/+0CeaukHTEZHuP0jvy3AUn3iAAlTygv3ARqomkvCLFUVcEHmB1ZxeavxCpYRcYPJGunLYkjlfeVSwT4oc1QYfAdXHex09ZkK3s1P9VtDPWe2KpHyNJ4mHtnlP9GWaxuwhFQpZF7iJHjisKioACEZfxWTsJ3qZiXN3iRe21o5MCZhEOoGt4xcEunJWFZsFo11Jb1GX9wSOoPz6E1JxhLsP84IuYLsC1184cF9hEpVb7QR/J4ysDqZOrxY6A2jaNMwqEkPhIyjMeaFXKFm+6WRsNv3U/2IeO4M4OzBLEFzu/GE1S5XUk5qMM1qXQeH6MWc4OEajiE8gPUI09MB9vfSz7jTyI4l+mnoC//+YRPKtIUOhs9VRUZmxJMFYTT4yltd+C/E7N00rxCIf4hTanNz7yL2dYLoE3XJxUZeX2KA02882s5J2TsvIkMWtpw70/+BG3Nu0SNn444qkTUiV9AgVY/8kQ03NGJHgI8SLVu6iOXgxx79EArB3AjiXDI1q6ydVnXBMz6JQALjXODm1LwCns9jzKJWU9s1L/Qlshq7MiTD0Z/Q0K8NHyqEaLY8ZAAYKnrEHPv6O4hWiB8MMQlJu5McEecraBWiE0zdc7mMlv/C4BFqgOonHf2TXPB5UxzFbBTy+4yNkYIfCdJA9ZhgNSkl4C56poLCDGrSd+tJONE1P9Ij18sFE2WDOUpctiHVL7DK0jxLt64GwECDaMHsdGPjdKRqtOQl0dWbF37T7Cbdkm52EWOXU0xy1sd61r4Cw9S/eVZBdCrmyK4PAU9LufAQtNfYXdZuOPNgH+r/9RNOlMKU+nBGpRikfLIAyhmUizDZeH2mBBwUFmNnNhXmJhHHR1RGNoSsdZ/dgsr7xOWPoX2230mmcYgfB+baE9jifkbYpWfonj3TfdQ3nnJ/4nE+MfFG+U+8CAc/esx/Mvub6u77Zw4iOj1tFTqchhPWHul05IZ2MdGKOFdyhEGctZTlFi7u2e6jON3Af+usZDp9FcVYhXwBnzMQfWLLr6Ar8Cg+rUdM9BHHGsWmpNyxE1D9ixOR/IlERFW05w8gMHKa/DGp/w1k+8uAFVQZdwfIRcmEm3euOdx3Loqny9XjruukhGTuPkjOABecNMFURN/pJDA0oo7HxufsI5dAws8r6QdBz54c1qo3UqwlMk3NUV2wUBJzlk2BR8/EQoqsPAFr+36wI2vrN+1613JFnlHhhWx3ZworKfaGc4QcOoDr+ZFPuYKA5L1ij5OW050vIbN+7BOYGAg3lNU2dB6Gi0IeqrvumIWmZ9xJ/1+4vIbXqVCv7g3tP1a3mzq7HT893CQH5RGbwZ3Dn07jwCaSUBLKj36p4FL3o51oo1KmVVjOtlFcoAEE+TsH53AR2LbOB1cAEjrkMzcRQLMvZ7DXEmlQOlTi+QtYkuvpnWg==">
+  <input type="hidden" name="vc" value="5770cd96b33264a83ddb933bea63ba93">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/transparent.gif?ray=72ef1aa669376426')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=72ef1aa669376426");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=72ef1aa669376426';
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/profile\/Gary-Ordog\/publication\/350429355\/figure\/fig7\/AS:1006124673286144@1616890223034\/Cougar-Footpad-to-show-you-where-the-cougar-footprint-comes-from-The-four-toe-pads-are.png?__cf_chl_rt_tk=j4yQZG3xqTgEmg.7ey2kVk6T90nUMl.i9gUy4V_43I4-1658523608-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+              <p data-translate="resolve_captcha_privacy_pass">Another way to prevent getting this page in the future is to use Privacy Pass. Check out the browser extension in the <a rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi">Chrome Web Store</a>.</p>
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">72ef1aa669376426</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">3.101.108.161</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>

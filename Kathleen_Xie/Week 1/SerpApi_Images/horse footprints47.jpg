@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "72964",
+        cRay: "72e5f876afb89822",
+        cHash: "4efe15ac6010c9e",
+        cUPMDTk: "\/profile\/Sashima-Laebe\/publication\/262918208\/figure\/fig8\/AS:296060862910471@1447597818585\/Typical-footfall-pattern-of-the-canter-German-Galopp-in-its-three-varieties-a.png?__cf_chl_tk=3pQjT0Uvb7LMGOKSI_VxuOetc1NnZv3Wen8vXRgO76c-1658427835-0-gaNycGzNB9E",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wcm9maWxlL1Nhc2hpbWEtTGFlYmUvcHVibGljYXRpb24vMjYyOTE4MjA4L2ZpZ3VyZS9maWc4L0FTOjI5NjA2MDg2MjkxMDQ3MUAxNDQ3NTk3ODE4NTg1L1R5cGljYWwtZm9vdGZhbGwtcGF0dGVybi1vZi10aGUtY2FudGVyLUdlcm1hbi1HYWxvcHAtaW4taXRzLXRocmVlLXZhcmlldGllcy1hLnBuZw==",
+          ra: "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc4LjAuMzkwNC4xMDggU2FmYXJpLzUzNy4zNg==",
+          rm: "R0VU",
+          d: "9Kv24tmxLo6jC+l9OtVMCvf/sv9Y+muW5UtFekKGNFRF1ptNnw+M+qxAzb8VRxybq37MzSnpj6C3idDKwBL4t8ssh+uky2Flf40f7MhyMbA/CZDzXGi2+HBH5xmqFr0Ju3tgVJiARatpSe7ct6Oh6HG1YsQPifs0Bf9g/Hs/nEY+u4HMChtqJvseByxz5GRW5YfpupAaWSdtUG1NcgYb/E71CYRb6I8MO5GARXeAv4c5RHMBtqTN9pBmiIqAp8n9R2QaLxiO+1Pyb2DCmWrTSUmjGSbriUxupVWFiC8Zoyday0kmKyF2Snjaj8q353WuZ7NsVB5GlOUZngpZ+CG4d4nAy+2fBPvPFVU/q7YA12vCNGbso6JEdrMLHEcmeM72q6MylFq2tYMsoDpBvRmyE+qs8REvQEwqkbN8QhDW1co4X2i9ECkqfRo0Mz89YXRqjgbq5uPtoYFBGlqu2mS3s90hareKRBRxCjcq/YLlXUPkwu75PlY52A8F3MMvlyXuHS4f/6wf3ug/sT+o0Go0h49PNCYtW7umFz4F4YqUDnjv+Gds8d82iVI2maAbsTgJm/saQmifxU3JAbPFVp8f0KFVK8c33uqf7+92UpiM2ZbObxvca02cTSE7vuHcCWW6f98IcC+qYOzPPkuZAQPZEg==",
+          t: "MTY1ODQyNzgzNS45NTcwMDA=",
+          m: "4crwX4ZGhwA8o0xcQ3pkZBBKefjMPUAMIA0MMF9RYhU=",
+          i1: "leU35WqEE8CrEbEcGmTmnA==",
+          i2: "PP/VsgNXCGHE6oAhDU/iGA==",
+          zh: "sjixqRSLa9EVXOTc7rZ+rm2ThxBuB3vWBNE2W8QzSOo=",
+          uh: "cE3keR/l/8t+rtvzG07fQITfZd5kCDxLVz8t66Zf28Q=",
+          hh: "iL/xMm/kzXFdBWMAQTIQdH+4A0b81v+3SGvFhZixdAA=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www.researchgate.net</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form id="challenge-form" class="challenge-form managed-form" action="/profile/Sashima-Laebe/publication/262918208/figure/fig8/AS:296060862910471@1447597818585/Typical-footfall-pattern-of-the-canter-German-Galopp-in-its-three-varieties-a.png?__cf_chl_f_tk=3pQjT0Uvb7LMGOKSI_VxuOetc1NnZv3Wen8vXRgO76c-1658427835-0-gaNycGzNB9E" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="8RSx45DdAjlZHgKiQvC_v3tAzZphJR8bw6lOnfgBgbA-1658427835-0-AdQgCs4-Jxylah4obEM4xBwi7zw-PECnyCmZg7R0RKTVbkaHEvF8nVMgVByvqYIuJJMoPFNQpIEdkbTCjlioqLUF87LqDjhV15f_FEDEDKYhbvQpoQb1vveL2gPWprGeAj78ox8fF_b2kpfUS9-YZVhC-e8XMvCNJvrYjAQLJPf4f9fwU3QJURq6NHyN_U6l-n_O87llxJWny4s7KgMDVjO1Q99-t4WyO2R0SlwZtgMSQwvAztKhBc1lUWUV1ysE6O8lqmOePm5KB2R14LBFBUKN29mt-UWFlqyFwqQl418IsgbKxlwmDUHWI7JVxE4L1QEqaZ5ZozIWQuwS79oPQkOzSVlzhOmbVb0Uh9Bt12VRohK8cc_vdlvVv0VbqS365lEjqnoV9J7F_h2cXcABu1YlH8MbbvhCIRPdh23i7jeKlLkvZP9d15wPRYohCQN87sMYJqhqyTAxz21S3Jk2RG80QTpzV7NAKqgzd16pVwFfSZRfA1DgVeEHbrU7EFqZxAgn6Z9VC2e8Wl5x4F6is3DYJGokBUQ90aNbTcrOImvvEiYIs6Q3v1FtiC23ehIXW-VYgKeQQvq24WFYqtCxI0LSBnnrMeW9CA4-fF9e8VtlvXLtq4uxgfhOroyYpOi9wiJTk0mil95uX6wb7AuNVc0LpXlub3AgFsrk-eJ3Y7HWDfB_cCuuNJSljS9_iMaU0ayFwRsl-0tbkrpowbbfgCsEtsLeEUiSkc7PjQEgKj6JCVYw6JpGxSc0QlXVDxuYW009FrzNLlLoL09zu_2ugGnUuPYZ0XwWZK1oDN6WpAFVFNrCMHY0qWj9vAyeeiU50fS7tPmNo47eHYIX3j_VfOdQ9RnxHN_WeJ2Ge10JUPJRk-lbNgLbanh4P5Aigfn_dugcYVz8ydwFfjDcvsohmTu6fVO1a7v27zQT8aF-RgKcqqGGZBtOWOx3uySWzkuiqMXrAyZ2aL_248o2d71N0re4yK4XU5GhTHRWmhTb3dbgQtZZazePJeKwpXnLkjRqcrJInV7aC3wrIwqdww-8ySaL9xBsyWNEVludAlwkR4Lh2yEgCvUlsGPbVpdmalMGyiQc69LlTuQgIbk5v9jyiNkLoY3fYiDzRbUh4zvbY1InimsSGTCnBePG_yN680rx0A" />
+  <input type="hidden" name="r" value="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">
+  <input type="hidden" name="vc" value="aa06d658ad6369c1684b7984f6a09b0c">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/transparent.gif?ray=72e5f876afb89822')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=72e5f876afb89822");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=72e5f876afb89822';
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/profile\/Sashima-Laebe\/publication\/262918208\/figure\/fig8\/AS:296060862910471@1447597818585\/Typical-footfall-pattern-of-the-canter-German-Galopp-in-its-three-varieties-a.png?__cf_chl_rt_tk=3pQjT0Uvb7LMGOKSI_VxuOetc1NnZv3Wen8vXRgO76c-1658427835-0-gaNycGzNB9E" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+              <p data-translate="resolve_captcha_privacy_pass">Another way to prevent getting this page in the future is to use Privacy Pass. Check out the browser extension in the <a rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi">Chrome Web Store</a>.</p>
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">72e5f876afb89822</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">52.53.188.138</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>

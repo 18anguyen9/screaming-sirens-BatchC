@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "64559",
+        cRay: "72e69e263aa896b1",
+        cHash: "c75807ae97548b8",
+        cUPMDTk: "\/profile\/Marco-Romano-11\/publication\/325895413\/figure\/fig1\/AS:639871920128001@1529568762188\/Human-footprints-bear-footprints-and-human-traces-preserved-in-the-Sala-dei-Misteri.png?__cf_chl_tk=6Pf6EuOG1CYhXBPcdlCmIattl5zhhYbYdlOZqn9gHME-1658434622-0-gaNycGzNB9E",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wcm9maWxlL01hcmNvLVJvbWFuby0xMS9wdWJsaWNhdGlvbi8zMjU4OTU0MTMvZmlndXJlL2ZpZzEvQVM6NjM5ODcxOTIwMTI4MDAxQDE1Mjk1Njg3NjIxODgvSHVtYW4tZm9vdHByaW50cy1iZWFyLWZvb3RwcmludHMtYW5kLWh1bWFuLXRyYWNlcy1wcmVzZXJ2ZWQtaW4tdGhlLVNhbGEtZGVpLU1pc3RlcmkucG5n",
+          ra: "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc4LjAuMzkwNC4xMDggU2FmYXJpLzUzNy4zNg==",
+          rm: "R0VU",
+          d: "FJC9R09rjmNPbGxK47AxSVEt8/dE2jPwaA7RSW3oLm9sBBXq3bGKBeQxKhqEqPAUhuH6d1MNi5Efkomy2fvM45T8uhhJ7GlHeL2smgqYzGmwkuuj6tLV4Clmtxh68OI6PwCuL4h8d4GBfRMorbhd56yj6/lkm//gBdJTV7dfRhbniVcStJgj0E+pIeMcSCRQefyVm2xMPwKdKDzpJnTKLBPfHru/qARl9e59gQyRpqx35a1XJMr26jT5C4lNKDl144nb6dlXFmn/BVigbx89IfbG9IQPymbJ6oodTYQf7B03eDz6yCJJ7kxkS+aJj3AWUMcnzgyAyJoWDxtS6Dy8G1XuJWd4cwASyWq58FsLMUPDnSRdOFTnvqjf1t493Vk7yc1rTEMIdKnLqhMhBwFpJJAfBzbj9IllVqCctFxi09k23jNrSt9NkTGgvEF2D9jTAG7z0eH0gSXi000bWV2NdOxjc+c6kFNeJtRXTMbJCf+hQgw4wl+VIu2LSqRUHuhPqD/ok9wKsF99s3nUN5pwpf8X1aIqTDY6kwiKybb1z2wm5FssspUIvOCSB3iOmak6/dRV17/D+Q0LBnXozjsnfFemVhY50liWqYytnoPhCINdwTzMdqKhadgv0+ipA6luZp6FhFjlYvnRRBxkrZrLNg==",
+          t: "MTY1ODQzNDYyMi40NDUwMDA=",
+          m: "dHs3MGFJCjw3DZYx/R46Lkf0WoWtYZNanx/brLzx6UU=",
+          i1: "+BfzIZ+ifDwyWXw48tg9Bg==",
+          i2: "0z+09A52gcymoMFmud1Hdw==",
+          zh: "sjixqRSLa9EVXOTc7rZ+rm2ThxBuB3vWBNE2W8QzSOo=",
+          uh: "cE3keR/l/8t+rtvzG07fQITfZd5kCDxLVz8t66Zf28Q=",
+          hh: "iL/xMm/kzXFdBWMAQTIQdH+4A0b81v+3SGvFhZixdAA=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www.researchgate.net</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form id="challenge-form" class="challenge-form managed-form" action="/profile/Marco-Romano-11/publication/325895413/figure/fig1/AS:639871920128001@1529568762188/Human-footprints-bear-footprints-and-human-traces-preserved-in-the-Sala-dei-Misteri.png?__cf_chl_f_tk=6Pf6EuOG1CYhXBPcdlCmIattl5zhhYbYdlOZqn9gHME-1658434622-0-gaNycGzNB9E" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="r1ZmV79LNGSwHh5ncyJnS7xfzgc_tb3jwIRgzEK38m4-1658434622-0-Acr4NEMGv6w1yGElR4SXjjIi-AmspaxWSgOiltC1IZZfWuUraiROdkuwl-Fnoi1ybxtdyo26bhbsv6WsGneoiDm4H0uKVqXNhZeiKEeNp3nYejbiMN6eg8HQ_vvfSfYo3TgN0N_EN_m-KkeDODH4OXWxsww_jBsVCX3A8OlKFY2PFU3EEZ1lHEK7USNHkdwNjrfrCqs0pbcP3KYqZtSBQioDjrVK88Xwzk7kSNiECidzt8rUb9f25ldN31l0_7IGjwNRhEPuM_Ma7pvKU86a8TPBGLRIJZlAtzHIBL0vJ-5FSt3pn6L6CvXBCRSh3_X8S3-pit7is2uSSPpUEDDuZeh3IpDOCGkDMle_Eh0eRFsSJvPNlcsgJXOEkYPeLCpBNnXWgO-nz4MshFgQXmaT7nDvMhs02EkRTOpaCs8Z2sgU3LbUxEtTGaqtyupEG38tzk6ioE8M0y6Ql50B7_efJIr0wg0V0XbC1TrPI_pnJsYcv5Lx-F4gbF1MTr9hpT6s9uWu0pjH81Uo2sNX1BR3BV9pWfzVCiYef7KINXfLtBHp81Bcy8MPkxJW3YZ_4ik6-26W9VQBLYOEQTaFBjIb2LqQ-ksel9aIhcPOsEDjrkreQvc5oUnaAIW4_xp8-c44_PWdv_Z98QDTFfh738xhzuW9aSKCoYPK00hcLMgH7xEqTPGmUgEIEIlWBYR0NLc7vxxoRITYF0-fwGUTZeyJdgg-K4rzzcoJd4WhPaDs9dAwyjc3yVH9MstbvGDbzACKQQMkmcipXwxtK9KKkTu1V8e2Kkn1J-jBDLwio7LxgXgrlldJDtnGZii_ViURUnYWLQv-51ggAOrOPSf7-Ft8w_gfuVl6fxGFSNSu2vK8zEw3HMiLbURaUDMp-zYzfmG-eUQMNis2tqWqnVNXIgr8nfkt4HZ4ACyUsLES_sQ28RIqJIsj773ClL4xniDoo1dt3lsj7THkcZaD1ogiPcvpyxn2dXCwPUA6-1NdMDofWaM0RebZtGek8Ku9NooG0mYwAJYW6OmgzzbF5-wz9M6mVm9eVD-itN9WW8wDcUV3MKx8olJKnv_vNRJI4QEQHHnnz_FiTdJ-GEM4uHF_ZzkI-Xc9AKirekmFH0KS2p_O92ws3MzUlBJd79__B3lMKSUBSsxUEHQWF58FbqHVSqlBUfU" />
+  <input type="hidden" name="r" value="lF1nPP.dzwpVsjs9V1UI1B07Ea1_Ybcl0LEZco9lb3o-1658434622-0-ARJueGFf7L5QShd2dXBNcE/B7FwUWXOheTcNG5FTmp8iwQOhwcLpqH8MLQoTQfqFfeF+OOEdb56gcjPo88g4DSm4UTStNRZbezfPq1Y3NBipyW+4tNoVMMBVw/lr4nKSWC7R/BP8A24We7zS6GjPS5VcLS68yEq3aMfAlzFH7eIroYNuayHkavetV53BKH3oz3rg6/wT6QuU7BPJDqZWka9yZSGkWaH/Dg7NeGNHo8VStuDOvqg8zPVI3Jh0MnnH63vcqn+jgQ1H1lViiOxn/qsmpyDfka5NSCLMn5gfhnHm4szbg72AVpP3QFr1tRqhRwMAXWWwPZUMawqsZNvRX5W7VhlVwu9mkxe0Ba4mIHAkhnwVtxF91eMMEQRvqbC8cH24JCMeq19qEx6nRxM1ZbrApczFyV3jSpUxf9wRxMlgz2I+gz6R1rdDc8wz3e8pBoYsPAHWhxNt0AyWGaHbckrr8+zxITHGFjVFgin3B0It7YleGvHIBgC0kdWfkx3Wsowfp7mPuQp13j56PfNwDqiWYcRJsAv8/05n+douqzHi9XEOOZ97Kgj1kJzqDriaMSh3nPAH9v0LuEd0hJN3BW5xW3YrtiQS1pWy5cRJj5cckrEfjOoSOr0qn4XCLwEpsFxJngSx0mfYZmK9ESxYv6sa9pOFvd3b3FSbZZV/A14Z4sp0FNdqkvNYoEc96h0W648LHbG/mMXoqEefdSI71Y8MKcKvlj/pbMsMMNf2hy25yZ+giJiH/bW+vedoECWOPWXfINOobpNyd/SlW6+NIcpdm+DnsPNoCP9u1zvZMIP4anvnjY+I1D1WrzpWw+Tp/v1mSuXU2wFPt2+yb3HPgKdg0xijmTBmxfdqy5JgdhH5ARV205AdHR+vPOc9mDjqqKzEHcEdlInc27tMiTfGSWHIsa/JbXDZmOuehsaa/VSbce6EghARaQ48/Tm9DLEoCN9fGYY1lbCJM2hZZoQH8WZjjCN63z/FehV/Rtzh8duzV0Vpk6P5nv4iRCVAoRzxtIVwZdgQRKmF6XTLk47zDOBmt3FBAOcR3lzvYVpUKEpUvot50fVOk5k810zf7MBjQJldFciJZhCZD3HJ7vrujiRqppDjpH8JNebKw+c1WU4wf0X0ZW6XhtXejxH7iNaIpornRdxK/WqnhZaZM2jAHFeH6yWCyBEGrDyqoOtfQHwXwtvSC+8P3sqqYYapMhVum8BttiyZ5TVXWJPwlXXSlfxZRWv5G8gI3jO0e2Wp7oXpeaGSL8e+cWhPrVQVc8XepLj0weu4hyA+fNG/bWJNh2MRbSaqs1MkZmXEmUp9Bsjbgze6ZvKQHWCKLD0CRl5DB7ZMbgQlZEsAHHdQ6lFFMshoZvSXmYEmyNab1OIgECnoGPkyLiPuRTUTTCo9Asw2ggyGlGOCXW1k4RO+AXpa6OZWrIJqaAPobH2Im46S7Lz3CGADpw+n1MtRXQulEO6zVhl6EHCCD8DvMtx0Sb8ahfhXN0gp86KIZ4hEMxOR7lZRcscTln4C0nhqWTXiPP4xga8H78EntnzdP9c+sPLQiesoS8QCqKd7Us9Q+yopHJKWeMNpe7Q6IOPAIjd673M6ANpCYx/bifF8S0CWxvuHFhWT1058Djfzz6u2ZrnLsGU0Gl+zn0e7MfbzU+ESkxdEP3KCCI0GPVR0DCzGp3uXE9Cn9dD2bRx2lq62uei9DUDniSb2b/iELggUHOCLCT7UVfm+N4CLHAGvJkgcVoS690LAaJifijZj57nI80nTDijwDQtLSKhSYIEO+wr86EOJv4jfDs0D++6sl4MoZgbDN4VRD4hGzgfDe0ASa/47L1+sdSNG34PdJPHjJqRTyF1syxoufTok17QOY3+taKc8ibLL598pvsLX9DKptdbEff2zSXwIY7dnBPdzA64IdmKVWHXOJtYSE//T1YZams2prDs=">
+  <input type="hidden" name="vc" value="8bdac4fb7298f24b27244eb6cffb5176">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/transparent.gif?ray=72e69e263aa896b1')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=72e69e263aa896b1");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=72e69e263aa896b1';
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/profile\/Marco-Romano-11\/publication\/325895413\/figure\/fig1\/AS:639871920128001@1529568762188\/Human-footprints-bear-footprints-and-human-traces-preserved-in-the-Sala-dei-Misteri.png?__cf_chl_rt_tk=6Pf6EuOG1CYhXBPcdlCmIattl5zhhYbYdlOZqn9gHME-1658434622-0-gaNycGzNB9E" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+              <p data-translate="resolve_captcha_privacy_pass">Another way to prevent getting this page in the future is to use Privacy Pass. Check out the browser extension in the <a rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi">Chrome Web Store</a>.</p>
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">72e69e263aa896b1</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">52.53.188.138</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>

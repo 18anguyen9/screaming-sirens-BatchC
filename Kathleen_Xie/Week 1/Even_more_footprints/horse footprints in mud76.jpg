@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "96916",
+        cRay: "72e6c6a16b16986c",
+        cHash: "e31064f18de4521",
+        cUPMDTk: "\/profile\/Ahmet-Erkman-2\/publication\/337102936\/figure\/fig5\/AS:822886289907713@1573202788279\/Stages-of-the-footprint-and-mud-crack-formations.ppm?__cf_chl_tk=bAVBZH5k3j7M96iMAbOGmkkEKM2jOyhN6X52Htg2smE-1658436280-0-gaNycGzNB70",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wcm9maWxlL0FobWV0LUVya21hbi0yL3B1YmxpY2F0aW9uLzMzNzEwMjkzNi9maWd1cmUvZmlnNS9BUzo4MjI4ODYyODk5MDc3MTNAMTU3MzIwMjc4ODI3OS9TdGFnZXMtb2YtdGhlLWZvb3RwcmludC1hbmQtbXVkLWNyYWNrLWZvcm1hdGlvbnMucHBt",
+          ra: "TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc4LjAuMzkwNC4xMDggU2FmYXJpLzUzNy4zNg==",
+          rm: "R0VU",
+          d: "73+xZljvPwLD5lemNKbzzS11Db+tI09E4NjCZta4Joyg3biYJkbVk6J6IPAISHPJ6HsFc1AdAPXLpXjrlVj70QSQaRlAm4T7yjIp13zNyW+afgVuN9FIMRaVq1iCkGLfN0ncZj9agIf6rfvS0y4M6Q+zY5UTsenNrlKH/K5v1Z8DPAFstGjKih79LViNUyPmiqqvzTXNKKvBmloyRyfvcqL+XEU8c1RDRLQXKj7l7HQuR6SFeqb90uZEatD+4CSeC2WNpQHrB/LuMzTbiRAa5t+bAx7T43Tlh40zf2s4JvevzJbEfylIM8ZC6mEezU4lKh9WKuVxKXv85xQGpwPtUp8vkTWvKLlzTEQbeeRbHUeAmEfOnTJQDj+qUPHrzrDvSHH9tj4Do08RH5TiRvLNFhSg1ftlZtz7Adf6gLLA0E+taECG2j+/MbQ2i/epcBylTY/xMJiqgFPl93CwG0oeE/yQ8fC/1Bpvu4b406eiHXzVP9LBDtx6xk9tJ+V4XIXeozAZMZtn231XC/qOQQ+GrtYLGfk/r4BR6grqy/RuAqZrA6UaOh8xfW3axhT/Hykgbv1rHmiLA7JkAlPdob/Z+Cw3kr/dMDpwEQy/k3nmBEXAS2rOnjqA68wbxCqU5rIbP2Z7pdq0Ejj0QmefXIRACg==",
+          t: "MTY1ODQzNjI4MC41NDcwMDA=",
+          m: "3+Vf1j7vh4l+sYoema8WMU1iGs0+YQURUGkToa7nzT4=",
+          i1: "mDsmycneSs036Ry7jEFAmA==",
+          i2: "Q1lsLq9GaPqTvF8TTZo5Iw==",
+          zh: "sjixqRSLa9EVXOTc7rZ+rm2ThxBuB3vWBNE2W8QzSOo=",
+          uh: "cE3keR/l/8t+rtvzG07fQITfZd5kCDxLVz8t66Zf28Q=",
+          hh: "iL/xMm/kzXFdBWMAQTIQdH+4A0b81v+3SGvFhZixdAA=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www.researchgate.net</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form id="challenge-form" class="challenge-form managed-form" action="/profile/Ahmet-Erkman-2/publication/337102936/figure/fig5/AS:822886289907713@1573202788279/Stages-of-the-footprint-and-mud-crack-formations.ppm?__cf_chl_f_tk=bAVBZH5k3j7M96iMAbOGmkkEKM2jOyhN6X52Htg2smE-1658436280-0-gaNycGzNB70" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="LW0RPBr8p37esUlP66l9JGZHZrqw_Uk0K1TOOyPp0wM-1658436280-0-ASVgLxoTPYn5XgwRL7KIljwsRTrMfR9C9pK_eQSdS57mZDt1OF6TzM-6BGm3NK8wB-SIdb48AdnjzrRoFF6_2nkW8LPiRM7pmU-jVj1sKr7qoM__Pra9Un3pUHoKCJ7HlgoLm9XsnSbZqCizlDer5eGGPRgXMpF9yQTEYuHLzpUN1ZUrPxd2qgVOIba1deGD4PZcvSJHf4eGLSXQyAzS1mmDwCOc4SOyvDOi7z6ca1iWOy6W8gAe99xD950Es8_7Awb6OXQfp6zOSRxmhpo3SOnRqUVHcUeOqzktVnCBW3aaPdLBWQUS9XuxbCRzMbyQzpohGWjBBXPMBBixWNmD43LwnlCWNub9QPZAsFJIpLIV0PaAa2SfU4tpY57DNKKBvx14r8fdaln49RHOfSTnvDSymOXbJOhSp5KWMoO_wJVlK-Z1vuFIJb68a8tg98SjSVehyzQi7IEWoowCKca3oPUaq9S6VNwXe10OmKHHQ4KjT6Z6UUgSchto91_TwJuvUtZ6UKMOEbYzyAohV5nLyORZhcfAqxT8cx19fc4fhpobiQ_O15UQBdh3eXIJcyh8SFdY58LeVA9boJUrXJ43E8BNTWUBlOEeIMQ9zPjwEzcZsfoLW0pET_Rop0a82T3a6HBBF5g7M-BxWN28cwBksGuHMYzhUj24zqyWrKgXVbNhqlyljt6BoGoWhBHHQfW8MT_7CZXUDbMieL0AVUXG590ORrWKpokMJ21IpEApEmCFbILdDKb4_A2Z4hvzXRUv_we-iLsXUHzP2fzZxj9sj-2E3maRPa9AALAgIOXJY5TUtoGc2XKDcQW3_qKodkV1x_tVm7uEOPxvRlbcIuXQpoZ0-JZbBl9Dw_gRtFpymI_-PPZ_iSeRIuV0GLm2CXWTjWxja7Y-Kjsn9zjewD7vgSKcAVK0n33ofQzGhzboD-2dtn-Qkv12YsbJZ9iTcJchRRn3JWz5N-ISTcy3tvBC5xmdGyKsPWw8JtwIHl08FXvuKM0-k8jt8R0tSWgScOUs7imQEaU86luGWgLPEj8yC-81Je7mgnFH6EvikEHePx7_" />
+  <input type="hidden" name="r" value="zeosIh.Ha.lCcvGk6K1sfnTNkYSzUDeU0W27uLgX3M4-1658436280-0-ARFiZosIq8mn/TVAnEdQ91dborWZRDBuN2Lz8W5Ct/7KUfJKb7sNrzTjvqbyJFBshr1gc7n7l/M2oSPXpuXxvnoPDe3CWfx+0hX6OkLBjXNYeoOxnUomYQU1qBTyTIo3eM7vFa1VfQiRnBOsaJlPH8bj4eIOF3vGeJdkYgwr9DpO397SF1vx8gTfKsGtz7+xz8q/yGSlujpM8gLx2y8H4xiRR/B2jcPYzZE52skzu2T5L/hFtgz57ChxroFrhP9QIJKtj3pI1qf3mHacMWsBGJ+eaNBAex0wqNuRcqksKVP59RjeCIavzCKemaT4pH0BVmA9+i8L22vGEN01u/KvDmym90O/fX52r/oLzLw+/DwFQH34hVjYjrTgQSpE5Kwcz/MKJBBKCHpskNEklpYvivmBzhxPtbnmLQ/2gptzo9zOVEwU/j3p3N2Qspzfxo8ycEHi8ku4MTMa9FIs4KhvKT1LFNSU6XOecS/0EhY7bPsCWu3+aj/s1UM9fUWiThQVlUqCiU043xzc34oBBP6teu9CQiqq8oHT2Ic4Ij2bTRxW2jj2KigWE5yZEyKytpcdL5d+q1jIVsypTocJ3xtmSqR2UcWRfk12x3O4V9npvxByhuu70JYc0+Jpgr5nmaH2l/IMv2FdfAzcFENP2MAWRHKLSpepB1ijvYSiSVJpkf9rmobGbR93ETqxaJ/luYcTpnxHOMcbUHQ9WYgUacJeKDJuNap71V7NoQJOeCKduXvbuer0dMEAWGOhMl9Nx0TZj5l4fTI+2CscMZGKAlGNb3l6+iBTjLlvdqRN9wgTt7r6mdy3qkXprOwq8oM2d52fccu3PwAACjIq1XS0+Gn/uwRN4t/uLlWbw/i+98Ley0Y9zgu+VFSYx+3SUjpGhOQTsZy9l8KP65ndoswCB07zfaWiMmbvCjzFI9qGWuh6W31mCgkBrkUQ+R5hm8x4kTqqKuvOhyjV8dCixOYOCzM6l2RHPZ5wyOQuCY985uo5zcY7GR1kdgL9jPZRLmJ6lD24ECK2VsYFZ96RoZ251j9HPfnrrHAOL47WOFJGCBEqSFNsCY7KavEtM1xMIvo2yro7xVp4RN19rc+zg9V4AX9uDmX9NCnCUt66PYU9OaHqB9cXBqZb5Hsy8MqIf1klFq1jJw64+CI5GNN6y5JdyW8PEp9dItQOmhxmOL01mrlUfVus4XasM5Ukb25HjfG+w1NDKEskpP+/kZpA1t0JpEb/Uww7OtPWCddjtMZLuMtZSzuw7C1Dci9jGZbSuUyM/nm+4SKg6TZZsTSrsJzclPohAXoL6a8cbPHV9z5bEryDImMb01hyoSBqGiLJVbmF5dbZO73gVlFSlbA4IdLRH9ux3S9QvFSt8ajIdZgz/Jv7Kzl2ALjkRK93sf3U5VUte0UVoR8HnMhf7PC3+9TWvnpHqXKiBQeIvKN1x/3BCaJNwt01ROGoYH+3eFApGxNViDGI40Tn5en8l9h8zDMv1XCTLE3i8QGPQO/HHRokTPzn9A3Acsaf+EkzmVdIwapJluDUif7T/qTy81e6SHQGQFQcK0eyBawruJnATyCVqA8A57RSACt1B4SM38YNWvBp3f+xafnVPkCd5rosdzQvR6aPyoQbR5wsEDmiZpQYXGGLtryQiBgAu+1JNirxc1ogrsDJCZ2C+tFn/Q8kqa1+u32b3BcmNrvMXRHAX42xF+GFH1ANzTQcas9w+fTqPnvMSGNKD+RT3wqgwHUkd8YQSTUHfxhLEyIIWaXGhszghV5c1ihViFNxFLEtz7z3tet/PGMfOxXAWk5wqC1BmCqwc5VRWRjLxuSzLDnhNSfiblseyJcuszTpkn79hrNPFefC9f+EIzxQSF7sDDfJYNz7Kh4WH/1EMWpfLJSDq4i3hTpxVLc9ckUH0Lmqt6bU1j0bYEi4Ng==">
+  <input type="hidden" name="vc" value="1194a4a6ae07f71768110d77cbc12ac9">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/transparent.gif?ray=72e6c6a16b16986c')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=72e6c6a16b16986c");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=72e6c6a16b16986c';
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/profile\/Ahmet-Erkman-2\/publication\/337102936\/figure\/fig5\/AS:822886289907713@1573202788279\/Stages-of-the-footprint-and-mud-crack-formations.ppm?__cf_chl_rt_tk=bAVBZH5k3j7M96iMAbOGmkkEKM2jOyhN6X52Htg2smE-1658436280-0-gaNycGzNB70" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+              <p data-translate="resolve_captcha_privacy_pass">Another way to prevent getting this page in the future is to use Privacy Pass. Check out the browser extension in the <a rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi">Chrome Web Store</a>.</p>
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">72e6c6a16b16986c</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">52.53.188.138</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>
